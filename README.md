@@ -17,7 +17,7 @@ This helps highlight operational inefficiencies and customer experience bottlene
 
 ## 📊 Dashboard Highlights
 
-<img src="b233c904-3c58-4433-93d7-f447a8524aab.png" width="800">
+<img src="https://i.postimg.cc/d1QJdYF5/Screenshot-2025-06-11-123304.png" width="800">
 
 ### 🔍 Key Insights
 
@@ -36,5 +36,15 @@ This helps highlight operational inefficiencies and customer experience bottlene
 
 ---
 
-## 📁 Folder Structure
+## 📈 Skills Demonstrated
+
+- Data cleaning and wrangling
+- Exploratory data analysis (EDA)
+- Business storytelling using visuals
+- Identifying actionable insights  
+
+---
+
+
+
 
