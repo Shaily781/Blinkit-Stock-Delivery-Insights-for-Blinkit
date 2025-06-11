@@ -2,6 +2,7 @@
 
 A data analysis project exploring Blinkit's delivery performance and stock availability trends across different zones, time slots, and product categories.
 
+Presentation: https://www.canva.com/design/DAGl5RvS7Zs/_AvwSCyi2YUZlm8kiv_i7w/view?utm_content=DAGl5RvS7Zs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hea17536d27
 ---
 
 ## 📌 Project Objective
